@@ -1,18 +1,3 @@
-<h1 align="center">Kalo Udah Kecemplung, Ceburin Aja Sekalian!!</h1>
-
-###
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreanGwen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<p align="center">🚀Junior Developer | 🦾IOT</p>
-
-###
-
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img width="5" />
@@ -24,5 +9,3 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
 </div>
-
-###
