@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔧Technologies I work with: Javascript, TypeScript, NextJs.<br>- ⚡️FunFact: I like exploring new tech in new era.<br>- 🔥Hobbies: Creating new repository.</p>
+<p align="left">- 🔧Technologies I work with: Javascript, TypeScript, NextJs.<br>- ⚡️FunFact: I like exploring new tech in new era.<br>- 🔥Hobbies: Creating new repository.<br>- 🦿IOT Development.</p>
 
 ###
 
