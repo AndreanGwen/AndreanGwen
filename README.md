@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 👨🏻‍🏫 A Computer Science Student.<br>- ⚡️FunFact: I like exploring new tech in new era.<br>- 🔥Hobbies: Creating new repository.<br>- 🦿IOT Development.</p>
+<p align="left">- 👨🏻‍🏫 A Computer Science Student.<br>- ⚡️FunFact: I like exploring new tech in new era.<br>- 🔥Hobbies: Commit readme.md.<br>- 🦿IOT Development.</p>
 
 ###
 
