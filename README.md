@@ -1,16 +1,6 @@
 <h1 align="center">Hi There!🚀</h1>
 
-###
-
-<h2 align="center">I'm Andrean Gwen</h2>
-
-###
-
-<h3 align="left">About me</h3>
-
-###
-
-<p align="left">- 👨🏻‍🏫 A Computer Science Student.<br>- ⚡️FunFact: I like exploring new tech in new era.<br>- 🔥Hobbies: Commit readme.md.<br>- 🦿IOT Development.</p>
+<p align="left">- 👨🏻‍🏫 A Computer Science Student.</p>
 
 ###
 
